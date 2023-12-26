@@ -1,3 +1,4 @@
+cd ..
 mvn flyway:migrate \
 -Dflyway.user=app \
 -Dflyway.password=secret \

@@ -1,5 +1,6 @@
-package com.example.demo;
+package com.example.demo.controller;
 
+import com.example.demo.DemoService;
 import com.example.demo.entity.PersonEntity;
 import com.example.demo.exception.NotFoundException;
 import com.example.demo.repository.PersonRepository;
